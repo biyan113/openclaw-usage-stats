@@ -1,0 +1,7 @@
+interface:
+  display_name: "OpenClaw Usage Stats"
+  short_description: "统计 OpenClaw token 使用与排行"
+  default_prompt: "Use $openclaw-usage-stats to summarize today's OpenClaw token usage and top sessions."
+
+policy:
+  allow_implicit_invocation: true
